@@ -1,0 +1,144 @@
+*{
+    margin: 10%;
+    column-gap: normal;
+}
+#profile
+{
+    border-radius: 20px;
+    position: relative;
+    top: 5%;
+    right: auto;
+
+}
+#name{
+    position: absolute;
+    top:25%;
+    left: 5%;
+    font-family:cursive ;
+    font-size: 40px;
+  }
+  #bname{
+    position: absolute;
+    top: 32%;
+    left: 5%;
+    font-family:cursive ;
+    font-size: 16px;
+  }
+  #Website{
+    position: absolute;
+    left: 31%;
+    font-size: 30px;
+    top: 16%;
+    font-style: italic;
+  }
+  
+  #abouttag{
+    position: absolute;
+    top: 55%;
+    right: 15%;
+    font-size: 50px;
+  }
+  #projecttag{
+      position: absolute;
+      top: 100%;
+      left: 10%;
+      font-size: 50px;
+  }
+  .about{
+    background-color:rgb(233, 233, 233);
+    position: absolute;
+    top: 45%;
+    left: 4%;
+    right:40%;
+    height: 40%;
+    width: 60%;
+    border: 2px;
+    border-color: black;
+    border-style:double;
+    border-radius: 10mm;
+  }
+  #content{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:5%;
+  }
+  .projects{
+    background-color:rgb(233, 233, 233);
+    position: absolute;
+    top: 90%;
+    right: 5%;
+    height: 40%;
+    width: 60%;
+    border: 2px;
+    border-color: black;
+    border-style:double;
+    border-radius: 10mm;
+  }
+  .eduqua{
+    background-color:rgb(233, 233, 233);
+    position: absolute;
+    top: 135%;
+    left: 5%;
+    height: 40%;
+    width: 60%;
+    border: 2px;
+    border-color: black;
+    border-style:double;
+    border-radius: 10mm;
+  }
+  #educationtag{
+    position: absolute;
+    top: 145%;
+    right: 10%;
+    font-size: 50px;
+  }
+  .skills{
+    background-color:rgb(233, 233, 233);
+    position: absolute;
+    top: 180%;
+    right: 5%;
+    height: 40%;
+    width: 60%;
+    border: 2px;
+    border-color: black;
+    border-style:double;
+    border-radius: 10mm;
+  }
+  .skills ul li{
+    padding: 10px;
+  }
+  #skillstag{
+    position: absolute;
+    top: 190%;
+    left: 10%;
+    font-size: 50px;
+  }
+  .interest{
+    background-color:rgb(233, 233, 233);
+    position: absolute;
+    top: 225%;
+    left: 5%;
+    height: 40%;
+    width: 60%;
+    border: 2px;
+    border-color: black;
+    border-style:double;
+    border-radius: 10mm;
+  }
+  #interesttag{
+    position: absolute;
+    top: 235%;
+    right: 10%;
+    font-size: 50px;
+  }
+  .interest ul li{
+    padding: 10px;
+  }
+  .footer{
+      position:absolute;
+      top: 275%;
+      width: 100%;
+      background-color: rgb(71, 71, 71);
+      color: white;
+      text-align: center;
+   }
